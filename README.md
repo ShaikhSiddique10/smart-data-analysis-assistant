@@ -35,7 +35,8 @@ pip install -r requirements.txt
 
 ## 🚀 Usage
 1. Start the Chatbot Locally
-streamlit run app.py
+
+"streamlit run app.py"
 
 ##  Upload Dataset
 Upload a CSV file via the web interface and start asking questions like:
